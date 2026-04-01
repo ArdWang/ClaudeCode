@@ -1,6 +1,6 @@
 {
-  "name": "anthropic-cc-2.1.88",
-  "version": "1.0.0",
+  "name": "anthropic-cc-2.2.00",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
